@@ -1,11 +1,7 @@
 ## Hi there 👋
+# I'm Ivan
 
-<!--
-**VanVas2310/VanVas2310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#- 🔭 I’m currently working on uni project
+#- 🌱 I’m currently learning python
+#- 🤔 I’m looking for help with uni project
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on uni project
-- 🌱 I’m currently learning python
-- 🤔 I’m looking for help with uni project
-- 💬 Ask me about ...
